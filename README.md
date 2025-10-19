@@ -122,4 +122,4 @@
 
 - **База данных**: PostgreSQL
 - **Инструменты анализа**: DBeaver, Visual Studio Code
-- **Визуализация**: Pandas
+- **Визуализация**: Matplotlib & Pandas
